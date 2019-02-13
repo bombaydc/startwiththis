@@ -53,6 +53,7 @@
 					<li><a target="_blank" href="el/cardParalex.php">Card Hover Parellex (Not work)</a></li>
 					<li><a target="_blank" href="el/autocomplete.php">auto complete with (Datalist)</a></li>
 					<li><a target="_blank" href="el/waterRippleEffectSnippet.php">Water Ripple Effect Snippet</a></li>
+					<li><a target="_blank" href="el/masonry.php">Masonry</a></li>
 					</ul>
 				</div>
 		<!--/*body details*/-->

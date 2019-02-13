@@ -20,5 +20,3 @@
 [09-Jul-2018 07:42:20 Etc/GMT] PHP Notice:  Undefined variable: meta_keyword in /home/aksharsolution/public_html/saumy.in/site/startwiththis/el/img_preloader.php on line 11
 [09-Jul-2018 07:42:26 Etc/GMT] PHP Notice:  Undefined variable: meta_description in /home/aksharsolution/public_html/saumy.in/site/startwiththis/el/fix_header.php on line 10
 [09-Jul-2018 07:42:26 Etc/GMT] PHP Notice:  Undefined variable: meta_keyword in /home/aksharsolution/public_html/saumy.in/site/startwiththis/el/fix_header.php on line 11
-[07-Feb-2019 14:44:41 Etc/GMT] PHP Notice:  Undefined variable: meta_description in /home/aksharsolution/public_html/krunalprajapati.com/site/startwiththis/el/lightbox_cust.php on line 10
-[07-Feb-2019 14:44:41 Etc/GMT] PHP Notice:  Undefined variable: meta_keyword in /home/aksharsolution/public_html/krunalprajapati.com/site/startwiththis/el/lightbox_cust.php on line 11
