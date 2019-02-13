@@ -4,7 +4,8 @@
       <title>form Element</title>
       <link rel="stylesheet" type="text/css" href="../css/boot_custom.css">
       <link rel="stylesheet" type="text/css" href="../css/global.css">
-    
+      
+
       <script type="text/javascript" src="../js/jquery.min.js"></script>
       <script type="text/javascript">
          $("document").ready(function(){
@@ -35,6 +36,7 @@
 				</form>
 				
 			</div>
+
          </div>
          <!--/*body details*/-->
       </article>
