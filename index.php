@@ -54,6 +54,9 @@
 					<li><a target="_blank" href="el/autocomplete.php">auto complete with (Datalist)</a></li>
 					<li><a target="_blank" href="el/waterRippleEffectSnippet.php">Water Ripple Effect Snippet</a></li>
 					<li><a target="_blank" href="el/masonry.php">Masonry</a></li>
+					<li><a target="_blank" href="el/css3Carousel.php">css3Carousel</a></li>
+					<li><a target="_blank" href="el/css3CarouselNavigation.php">css3CarouselNavigation</a></li>
+					<li><a target="_blank" href="el/css3CarouselResponsive.php">css3CarouselResponsive</a></li>
 					</ul>
 				</div>
 		<!--/*body details*/-->
